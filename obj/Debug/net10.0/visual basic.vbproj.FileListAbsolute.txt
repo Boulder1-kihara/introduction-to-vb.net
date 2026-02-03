@@ -1,0 +1,14 @@
+C:\Users\abelk\OneDrive\Desktop\visual basic\obj\Debug\net10.0\visual basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abelk\OneDrive\Desktop\visual basic\obj\Debug\net10.0\visual basic.AssemblyInfoInputs.cache
+C:\Users\abelk\OneDrive\Desktop\visual basic\obj\Debug\net10.0\visual basic.AssemblyInfo.vb
+C:\Users\abelk\OneDrive\Desktop\visual basic\obj\Debug\net10.0\visual basic.vbproj.CoreCompileInputs.cache
+C:\Users\abelk\OneDrive\Desktop\visual basic\bin\Debug\net10.0\visual basic.exe
+C:\Users\abelk\OneDrive\Desktop\visual basic\bin\Debug\net10.0\visual basic.deps.json
+C:\Users\abelk\OneDrive\Desktop\visual basic\bin\Debug\net10.0\visual basic.runtimeconfig.json
+C:\Users\abelk\OneDrive\Desktop\visual basic\bin\Debug\net10.0\visual basic.dll
+C:\Users\abelk\OneDrive\Desktop\visual basic\bin\Debug\net10.0\visual basic.pdb
+C:\Users\abelk\OneDrive\Desktop\visual basic\obj\Debug\net10.0\visual basic.dll
+C:\Users\abelk\OneDrive\Desktop\visual basic\obj\Debug\net10.0\refint\visual basic.dll
+C:\Users\abelk\OneDrive\Desktop\visual basic\obj\Debug\net10.0\visual basic.pdb
+C:\Users\abelk\OneDrive\Desktop\visual basic\obj\Debug\net10.0\visual basic.genruntimeconfig.cache
+C:\Users\abelk\OneDrive\Desktop\visual basic\obj\Debug\net10.0\ref\visual basic.dll
